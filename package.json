@@ -1,0 +1,19 @@
+{
+  "name": "cf-workers-helmet",
+  "author": "Stan van Langen <stan@vanlangen.com>",
+  "description": "Security header middleware collection for Cloudflare Workers using Helmet.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/cf-workers-helmet.js",
+  "scripts": {},
+  "repository": {
+    "url": "https://github.com/Heartz66/cf-workers-helmet"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "dependencies": {
+    "helmet": "^3.23.3"
+  },
+  "devDependencies": {}
+}
