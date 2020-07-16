@@ -3,7 +3,7 @@
   "author": "Stan van Langen <stan@vanlangen.com>",
   "description": "Security header middleware collection for Cloudflare Workers using Helmet.",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/cf-workers-helmet.js",
   "scripts": {},
   "repository": {
